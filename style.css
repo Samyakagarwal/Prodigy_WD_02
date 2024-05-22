@@ -1,0 +1,22 @@
+  li:hover {
+    background-color: pink;
+  }
+  
+  li .glyphicon:hover {
+    color: red;
+  }
+  
+  li .list-item {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .glyphicon-remove {
+    cursor: pointer;
+  }
+  .container{
+  background: #242424;
+  }
+  .page-header{
+    color: #fff;
+  }
